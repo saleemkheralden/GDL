@@ -30,7 +30,7 @@ print(device)
 # Hyperparameters
 
 batch_size = 16
-n_samples = 2048
+n_samples = 1024
 
 degrees, axes = [180, 180, 180], [0, 1, 2]
 
