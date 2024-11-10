@@ -1,0 +1,5 @@
+wandb
+*.pt
+ModelNet
+ModelNet10
+Part2/data_part2
